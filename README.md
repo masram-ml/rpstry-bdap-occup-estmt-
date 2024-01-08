@@ -21,7 +21,7 @@ This repository contains the code and documentation for my Room Occupancy Estima
   - Random Forest
 
 - **Key Steps:**
-  - **Exploratory Data Analysis (EDA):** Analyzed and visualized** the dataset to gain insights into temporal patterns and feature distributions.
+  - **Exploratory Data Analysis (EDA):** Analyzed and visualized the dataset to gain insights into temporal patterns and feature distributions.
   - **Data Preprocessing:** performed feature engineering, and addressed class imbalance.
   - **Model Training:** Implemented and trained Support Vector Machines (SVM) and Random Forest models for occupancy estimation.
   - **Hyperparameter Tuning:** Utilized GridSearchCV to find optimal hyperparameters for the Random Forest model.
